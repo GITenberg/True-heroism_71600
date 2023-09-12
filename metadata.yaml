@@ -1,0 +1,29 @@
+_repo: True-heroism_71600
+_version: 0.0.1
+creator:
+  author:
+    agent_name: A. L. O. E.
+    aliases:
+    - A.L.O.E.
+    - Tucker, Charlotte Maria
+    birthdate: 1821
+    deathdate: 1893
+    gutenberg_agent_id: '31385'
+    url: http://www.gutenberg.org/2009/agents/31385
+    wikipedia: https://en.wikipedia.org/wiki/Charlotte_Maria_Tucker
+description: ''
+gutenberg_issued: '2023-09-09'
+identifiers:
+  gutenberg: '71600'
+language: en
+pgterms:marc905: 20230905172145aloe
+pgterms:marc906: '1877'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bGall & Inglis, $c1877.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: True heroism
+url: http://www.gutenberg.org/ebooks/71600
